@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectCodeLibrary", "Corre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectCodeLibraryTests", "CorrectCodeLibraryTests\CorrectCodeLibraryTests.csproj", "{39F75411-7910-4641-8881-5EAA6295F2F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectCode", "CorrectCode\CorrectCode.csproj", "{077DD74D-D589-4FE5-A24A-08620EA3A3DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{39F75411-7910-4641-8881-5EAA6295F2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39F75411-7910-4641-8881-5EAA6295F2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39F75411-7910-4641-8881-5EAA6295F2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077DD74D-D589-4FE5-A24A-08620EA3A3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077DD74D-D589-4FE5-A24A-08620EA3A3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077DD74D-D589-4FE5-A24A-08620EA3A3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077DD74D-D589-4FE5-A24A-08620EA3A3DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
